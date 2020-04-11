@@ -29,4 +29,4 @@ The project which we are going to do in this term is an automatic sensor soap di
 
 #  Model 
 
-<img scr="gp207.jpeg">
+<img src="gp207.jpeg">
