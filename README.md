@@ -23,3 +23,6 @@ The project which we are going to do in this term is an automatic sensor soap di
 
 <img src="PROJECT207.jpeg">
 
+# Circuit assemble
+
+<img src="P207.jpeg">
